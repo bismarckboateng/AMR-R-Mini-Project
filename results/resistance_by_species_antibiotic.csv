@@ -1,0 +1,20 @@
+"","species","antibiotics","tested","resistant","resistance_percent"
+"1","Escherichia coli","AMP",15,14,93.3333333333333
+"2","Escherichia coli","SXT",15,8,53.3333333333333
+"3","Escherichia coli","CRO",15,7,46.6666666666667
+"4","Escherichia coli","TET",15,5,33.3333333333333
+"5","Escherichia coli","GEN",15,3,20
+"6","Escherichia coli","CIP",14,1,7.14285714285714
+"7","Klebsiella pneumoniae","AMP",15,11,73.3333333333333
+"8","Klebsiella pneumoniae","TET",14,10,71.4285714285714
+"9","Klebsiella pneumoniae","CRO",15,9,60
+"10","Klebsiella pneumoniae","CIP",15,6,40
+"11","Klebsiella pneumoniae","GEN",15,6,40
+"12","Klebsiella pneumoniae","SXT",15,4,26.6666666666667
+"13","Pseudomonas aeruginosa","CIP",15,12,80
+"14","Pseudomonas aeruginosa","GEN",14,6,42.8571428571429
+"15","Pseudomonas aeruginosa","CRO",15,6,40
+"16","Staphylococcus aureus","CIP",15,6,40
+"17","Staphylococcus aureus","SXT",15,5,33.3333333333333
+"18","Staphylococcus aureus","GEN",15,3,20
+"19","Staphylococcus aureus","TET",15,2,13.3333333333333
